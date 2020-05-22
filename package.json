@@ -1,0 +1,26 @@
+{
+  "name": "ESTUDO-API-NodeJS-Express-Mongo-Rocketseat",
+  "version": "1.0.0",
+  "description": "Estudo de API Rest utilizando NodeJS, Express e MongoDB. Seguindo o tutorial do Diego Fernandes, da Rocketseat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ralmeidax/ESTUDO-API-NodeJS-Express-Mongo-Rocketseat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ralmeidax/ESTUDO-API-NodeJS-Express-Mongo-Rocketseat/issues"
+  },
+  "homepage": "https://github.com/ralmeidax/ESTUDO-API-NodeJS-Express-Mongo-Rocketseat#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.15"
+  }
+}
